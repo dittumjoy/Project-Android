@@ -20,7 +20,7 @@ Admin Credentials:
 UID : Admin@gmail.com
 PWD : admin
 
-It is a default account.You can't create an another admin in this application.
+It is a default account.You can't create another admin in this application.
 
 Teacher:
 
